@@ -1,5 +1,9 @@
 # bikesharing_
 
+
+[link to dashboard](https://public.tableau.com/app/profile/kyle.kato/viz/NYC_Citibike_Challenge_16547386086170/Story1)
+
+
 ## Overview of Analysis
 The pupose of this analysis is to provide investors with insights for investment in a potential bike-sharing buisness idea in Des Moines. We demonstrate:
 * Length of time bikes are checked out
