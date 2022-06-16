@@ -12,7 +12,7 @@ We analyzed the trip duration for each instance a bike was utilized. We analyzed
 
 #### Trip Duration of every observation recorded:
 
-![tripduration_hour](https://user-images.githubusercontent.com/99375741/173977420-c6694d10-3619-4296-b44e-a3268c33ac08.png)
+![tripduration_hour](https://user-images.githubusercontent.com/99375741/173982109-793a8f0c-cf98-45db-934b-f3be8e548955.png)
 
 The line graph shows how many bikes are checkout and how long they have been checkout for. We see a steep rise and falls, showing almost every bike is returned within an hour.
 
@@ -63,11 +63,13 @@ Heat map shows the most popular locations to start a bike ride. The larger and m
 
 
 
+
 #### Avg Trip Duration by Birth Year:
 
 ![avg_tripduration_birthyear](https://user-images.githubusercontent.com/99375741/173978271-eac989f5-87f4-4e1d-b4d8-4e818421237d.png)
 
 Area graph doea not provide great insights. 
+
 
 
 
