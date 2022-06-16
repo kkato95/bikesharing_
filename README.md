@@ -50,7 +50,7 @@ This heat map is very similar to previous heat meat map, but instead of one heat
 
 ![trip_gender_weekday](https://user-images.githubusercontent.com/99375741/173978119-c1741d3f-66de-4da0-8bd5-52b07f1ed228.png)
 
-2 heat maps to shows the days of the week with the most activity based on wether or not the user is subscriped to the viti-bike program. Customer do not use the bikes, no matter the day and subscribers, esspecially males use the bike Monday, Tuesday, Thursday, and Friday the most. 
+2 heat maps show the days of the week with the most activity based on wether or not the user is subscriped to the citibike program and depending on their gender. Customers do not use the bikes often. Subscribers are much more likely to use bikes. Men, again, are more likely to use the bikes, especially on Monday, Tuesday, Thursday, and Friday. 
 
 
 
